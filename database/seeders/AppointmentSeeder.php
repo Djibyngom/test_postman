@@ -1,4 +1,9 @@
 <?php
+namespace Database\Seeders;
+
+use App\Models\Appointment;
+use Illuminate\Database\Seeder; 
+
 
 // database/seeders/AppointmentSeeder.php
 

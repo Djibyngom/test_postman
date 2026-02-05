@@ -57,3 +57,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+composer create-project laravel/laravel biblio-api 
+cd biblio-api 
+on genere le model avec la commande php artisan make:model Appointement  -m 
+                                    php artisan make:model Patient  -m 
+                                    php artisan make:model Doctor  -m 
+on creer la resource:  php artisan make:resource BookResource 
+on creer le con
