@@ -66,4 +66,4 @@ on genere le model avec la commande php artisan make:model Appointement  -m
                                     php artisan make:model Patient  -m 
                                     php artisan make:model Doctor  -m 
 on creer la resource:  php artisan make:resource BookResource 
-on creer le con
+on creer les controllers de l'api pour patient,doctor,et appointement
